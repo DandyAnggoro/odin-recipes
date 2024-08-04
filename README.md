@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project that I attempt from Foundation course at TOP. The skills that I will demonstrate in here are writing code in HTML and do the work via remote repository and push it to GitHub. All the thing in here just the first basic HTML that I have learned, and it all still looks so simple.
