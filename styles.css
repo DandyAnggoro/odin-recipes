@@ -1,0 +1,15 @@
+ul,
+ol,
+p {
+    font-family: courier new;
+}
+
+h1,
+h2 {
+    color: #69361F;
+    background-color: aqua;
+}
+
+img {
+    height: auto;
+}
